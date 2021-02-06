@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Follow React Native Tutorial by Mosh",
+    "githubUrl": "https://github.com/vaibhavb1998/TutorialDoneWithIt"
   }
 }
